@@ -1,8 +1,8 @@
 ---
-title: Sitemap
+title: Box of Stuff
 ---
 
-# Sitemap
+# Box of Stuff
 
 1. [Holidays](holidays.md)
 2. [Links](links.md)
