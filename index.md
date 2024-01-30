@@ -4,6 +4,6 @@ title: pages
 
 # Sitemap
 
-1. Holidays
-2. Links
+1. [Holidays](holidays.md)
+2. [Links](links.md)
 3. TBD
