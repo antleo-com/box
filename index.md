@@ -6,4 +6,5 @@ title: Box of Stuff
 
 1. [Holidays](holidays.md)
 2. [Links](links.md)
-3. [Gnoh](gnoh.html)
+3. [KB](kb.html)
+4. [Koine](koine.html)
