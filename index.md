@@ -8,3 +8,4 @@ title: Box of Stuff
 2. [Links](links.md)
 3. [KB](kb.html)
 4. [Koine](koine.html)
+5. [Projects](projects.html)
