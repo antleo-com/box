@@ -19,6 +19,12 @@ Audio only youtube (may not work): https://ytaud.io/
 
 https://wipenote.io/
 
+https://poofnote.com/
+
+https://twsd.cfbao.me/
+
+cl1p.net
+
 Futureme.org
 
 https://www.protectedtext.com
