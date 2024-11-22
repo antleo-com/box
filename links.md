@@ -15,6 +15,10 @@ Cliche finder: https://westegg.com/cliche/
 
 Unicode text converter: https://qaz.wtf/u/convert.cgi
 
+Unix time stamp converter: [https://www.epochconverter.com/](https://www.epochconverter.com/)
+
+Songs of Zion: [https://songsofzion.github.io/](https://songsofzion.github.io/)
+
 Audio only youtube: https://www.ravbug.com/yt-audio/
 
 Audio only youtube (may not work): https://ytaud.io/
