@@ -61,3 +61,5 @@ https://onlinecryptotools.com/analyze-word-frequency
 https://securityinabox.org/en/passwords/passwords-and-2fa/
 
 https://textcleaner.net/
+
+HTML page crypt: https://pagecrypt.maxlaumeister.com/
