@@ -9,6 +9,8 @@ Links to some resources which may or may not be helpful, but are added here for 
 Nudgemail.com: 
 This is an incredibly useful free productivity tool called nudgemail.com. It's super convenient to use if you like keeping track of things to do right in your inbox, rather than adding them to task lists or calendars.
 
+Cryptic Text (Lempel Ziv Algo): [https://c-txt.github.io/](https://c-txt.github.io/)
+
 Citation generator: [https://zbib.org/](https://zbib.org/)
 
 Cliche finder: https://westegg.com/cliche/
